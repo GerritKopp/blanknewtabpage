@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Leere Neue Tab-Seite",
+    "description": "The extension's name."
+  },
+  "extDescription": {
+    "message": "Ersetzt die neue Tab-Seite mit einer leeren.",
+    "description": "The extension's description."
+  }
+}
