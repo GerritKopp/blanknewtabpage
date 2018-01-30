@@ -6,5 +6,9 @@
   "extDescription": {
     "message": "Ersetzt die neue Tab-Seite mit einer leeren.",
     "description": "The extension's description."
+  },
+  "tabTitle": {
+    "message": "Neuer Tab",
+    "description": "The title of the new tage page."
   }
 }
